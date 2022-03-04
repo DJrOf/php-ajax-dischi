@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    width: 100vw;
+}
+
+header {
+    height: 100px;
+    background-color: blue;
+}
+
+#logo {
+    width: 90px;
+}
+
+img {
+    width: 150px;
+}
+
+ul {
+    list-style: none;
+    width: 200px;
+    float: right;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+
+.card {
+    
+}
